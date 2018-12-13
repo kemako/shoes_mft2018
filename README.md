@@ -9,7 +9,9 @@
 - LiPo
 - Arduino
 - 3Dプリンタで作ったパーツ
-![シューズ](img/shoes.png)
+![シューズ](img/shoes.jpg)
+![シューズ](img/shoes_front.jpg)
+![シューズ](img/shoes_side.jpg)
 
 ## 作ったもの
 - 靴についているダイヤルを回すとリミットスイッチがONになる
@@ -20,4 +22,3 @@
 - たくさんの方々に見ていただきました！
 ![MFT2018_1](img/mft_1.JPG)
 ![MFT2018_2](img/mft_2.JPG)
-
