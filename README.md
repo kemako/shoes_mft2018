@@ -9,7 +9,9 @@
 - LiPo
 - Arduino
 - 3Dプリンタで作ったパーツ
-![シューズ](img/shoes.jpg)
+
+## 完成品
+![シューズ](img/shoes.jpeg)
 ![シューズ](img/shoes_front.jpg)
 ![シューズ](img/shoes_side.jpg)
 
